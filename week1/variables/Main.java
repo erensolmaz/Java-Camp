@@ -6,6 +6,6 @@ public class Main {
         System.out.println(mesaj + ogrenciSayisi);
         System.out.println("Ogrenci sayım : " + ogrenciSayisi);
         System.out.println("Ogrenci sayım : " + ogrenciSayisi);
-        System.out.println("Ogrenci sayım : " + ogrenciSayisi);
+        System.out.println("Ogrenci sayısı : " + ogrenciSayisi);
     }
 }
